@@ -1,0 +1,12 @@
+customtkinter
+speechrecognition
+pyttsx3
+pygame
+gTTS
+replicate
+requests
+langdetect
+deep-translator
+python-dotenv
+edge-tts
+pyaudio
